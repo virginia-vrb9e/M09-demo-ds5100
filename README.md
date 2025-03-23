@@ -1,2 +1,2 @@
-# m09-demo-2025
+# M09-demo2025-ds5100
 M09 Challenge
